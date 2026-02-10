@@ -321,3 +321,4 @@ MIT License - see LICENSE file for details
 
 **Made with 🌿 by the SplitMint Team**
 # Splitmint
+# Splitmint
